@@ -22,7 +22,7 @@ function App() {
           </td>
         </tr>
       </table>
-      <table bgcolor='black' width='100%' >
+      <table bgcolor='#fff' width='100%' >
         <tr align='left' >
           <td>
             <h1 align='left'>Complete Python Developer in 2023: Zero to Mastery</h1>
